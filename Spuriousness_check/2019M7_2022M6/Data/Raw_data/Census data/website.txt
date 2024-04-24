@@ -1,0 +1,10 @@
+
+National Population by Characteristics: 2020-2022：
+https://www.census.gov/data/tables/time-series/demo/popest/2020s-national-detail.html
+
+Datasets:
+Annual Estimates of the Resident Population by Single Year of Age and Sex for the United States: April 1, 2020 to July 1, 2022 (NC-EST2022-AGESEX-RES)
+
+
+Technical details PDF:
+https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2020-2022/NC-EST2022-AGESEX-RES.pdf
