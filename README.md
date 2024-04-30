@@ -23,13 +23,13 @@ The folder contains the relevant functions used for the main programs.
 
 %%%%%%%%%% JAE_Data folder %%%%%%%%%
 
-The folder contains the programs and data to be used to replicate our empirical exercise of Section 4.3.2 in the paper.
+The folder contains the programs and data to be used to replicate our empirical exercise of Section 4.3.2 in the paper. For more details about this folder, please check the ReadMe_JAE.txt. 
 
 
 %%%%%%%%% JEDC_Data folder %%%%%%%%%
 
 
-The folder contains the programs and data to be used to replicate our empirical exercise of Section 4.2.5 in the paper.
+The folder contains the programs and data to be used to replicate our empirical exercise of Section 4.2.5 in the paper. For more details about this folder, please check the ReadMe_JEDC.txt.
 
 
 %%%%%%% Results folder %%%%%%%%%%%%
@@ -39,7 +39,7 @@ The folder contains the forecasting results produced by the main programs.
 
 %%%%%%% Spuriousness_check folder %%%%%%%
 
-The folder contains the programs and data to be used to replicate our empirical exercise of Section 4.2.4 in the paper.
+The folder contains the programs and data to be used to replicate our empirical exercise of Section 4.2.4 in the paper. For more details about this folder, please check the ReadMe_new_sample.txt and ReadMe_Bootstrap.txt in the subfolder.
 
 
 %%%%%%%  Main programs %%%%%%%%%
