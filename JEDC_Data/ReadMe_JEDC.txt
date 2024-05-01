@@ -37,7 +37,7 @@ The folder contains the forecasting resluts produced by the main programs.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 (1)  Table7_to_8.m: This file produces the relevant results of Table 7 and Table 8 in the paper.
-     To be specific, the file first runs the five models (RW, FADNS_nfwrd, FADNS_whole, FADNS_fwrd) 
+     To be specific, the file first runs the five models (RW, FADNS_nfwrd, FADNS_whole, FADNS_fwrd, DNS_FD_L_u) 
      using empirical samples similar in Fernandes and Vieira (2019, JEDC),
      then it generates the RMSFE results in Table 7 and the MCS results in Table 8, respectively. 
      All the results are stored in Table7_to_8.xlsx. 
