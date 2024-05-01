@@ -10,7 +10,8 @@ Kindly cite our paper in your research if you make use of these materials.
 
 The folder contains the yield curve, the demographic age distribution, and macroeconomic data illustrated in the data section.
 
-(1) The yield data (CRSP_monthly_2022.xlsx, which is empty due to access restrictions) can be found in the Center for Research in Security Prices (CRSP) database and is accessed via the Wharton Research Data Services (WRDS). Specifically, we use the 3-month risk-free rate and 1- to 5-year Fama-Bliss zero-coupon equivalent Treasury yields, and their corresponding unique identifiers in the CRSP database are 2000002, 2000047, 2000048, 2000049, 2000050, and 2000051, respectively. Monthly data from 1962M6 to 2022M6. We also add two excel files in the Raw_data folder to show the raw files download from the CRSP database (see the CRSP folder), and the exact column we used is marked gray. 
+(1) The yield data (CRSP_monthly_2022.xlsx, which is empty due to access restrictions) can be found in the Center for Research in Security Prices (CRSP) database accessed via the Wharton Research Data Services (WRDS). Specifically, we use the 3-month risk-free rate and 1- to 5-year Fama-Bliss zero-coupon equivalent Treasury yields. The corresponding unique identifiers in the CRSP database are 2000002, 2000047, 2000048, 2000049, 2000050, and 2000051, respectively. The sample period is from June 1952 to June 2022. Additionally, we have included two Excel files in the Raw_data folder, showcasing the form of raw data downloaded from the CRSP database (see the CRSP folder). The data we used is in the column whose header name is TMYTM.
+
 
 (2) The demographic age distribution (US_Age_Distribution_2022.xlsx) can be found at the United States Census Bureau website: https://www.census.gov/en.html.
 
