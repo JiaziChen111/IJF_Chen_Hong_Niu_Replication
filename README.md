@@ -1,6 +1,6 @@
                                                      Replication Notes
 
-Jiazi Chen, Zhiwu Hong, and Linlin Niu, 2024, "Forecasting Interest Rates with Shifting Endpoints: The Role of the Functional Demographic Age Distribution", Accepted at International Journal of Forecasting.
+Jiazi Chen, Zhiwu Hong, and Linlin Niu. Forecasting Interest Rates with Shifting Endpoints: The Role of the Functional Demographic Age Distribution. International Journal of Forecasting (2024), https://doi.org/10.1016/j.ijforecast.2024.04.006.
 
 These files contain codes and data for replicating empirical results outlined in the paper using Matlab. All codes were run on a high-performance computer (HPC) located at Xiamen University, utilizing the Matlab R2018b version. Kindly cite our paper in your research if you make use of these materials.
 
